@@ -181,11 +181,12 @@
 }
 @media screen{
     body{
-        background-color: rgb(157, 228, 148);
-        font-family: 微軟正黑體;
+        background-color: rgb(106, 245, 245);
+        font-family: 標楷體;
     }
     h1{
         font-size: 40px;
+        color: lightgrey;
         text-align: center;
     }
     caption{
