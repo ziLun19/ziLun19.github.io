@@ -179,7 +179,7 @@
         width: 600px;
     }
 }
-@media screen{
+@media screen and (max-width:768px){
     body{
         background-color: rgb(106, 245, 245);
         font-family: 標楷體;
